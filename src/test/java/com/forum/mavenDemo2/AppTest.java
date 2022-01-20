@@ -3,7 +3,7 @@ package com.forum.mavenDemo2;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
-//  git-3
+//  git-4
 /**
  * Unit test for simple App.
  */
